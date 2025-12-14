@@ -40,12 +40,6 @@ Excel | SQL | Power BI | Python | GitHub
 
 ---
 
-## 📌 How to Use This Repository
-Each project folder contains:
-- Dataset (or data source link)
-- Code files
-- Dashboard screenshots
-- A detailed README explaining the project
 
 ---
 
