@@ -51,4 +51,5 @@ Each project folder contains:
 
 ## 📬 Contact
 - GitHub: https://github.com/rpreeti198
+- X: https://x.com/rpreeti198
 
