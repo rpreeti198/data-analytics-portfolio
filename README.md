@@ -16,23 +16,7 @@ This repository showcases my real-world data analytics projects focused on data 
 
 ## 📁 Projects
 
-### 🔹 Excel Projects
-- **Sales Analysis Dashboard**
-  - Cleaned and analyzed sales data
-  - Identified top products and regional trends
-
-### 🔹 SQL Projects
-- **E-commerce Data Analysis**
-  - Customer and order analysis using SQL joins and aggregations
-
-### 🔹 Power BI Projects
-- **HR Analytics Dashboard**
-  - Employee attrition and KPI analysis
-
-### 🔹 Python Projects
-- **Netflix Data Analysis**
-  - Content trends and country-wise insights
-
+### 🔹Credit Card Transaction Analysis Dashboard (Power BI)
 ---
 
 ## 🛠 Tools Used
